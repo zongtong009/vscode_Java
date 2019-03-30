@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "externalTerminal",
+            "stopOnEntry": false,
+            "mainClass": "Hello",
+            "args": ""
+        }
+    ]
+}

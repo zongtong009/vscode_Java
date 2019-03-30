@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "myFirstJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ScannerDemo",
+            "request": "launch",
+            "mainClass": "app.ScannerDemo",
+            "projectName": "myFirstJava"
+        }
+    ]
+}
