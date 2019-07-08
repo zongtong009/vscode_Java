@@ -2,7 +2,19 @@
     "version": "0.2.0",
 
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "myFirstJava"
+        },
         {
             "type": "java",
             "name": "CodeLens (Launch) - Hello",
